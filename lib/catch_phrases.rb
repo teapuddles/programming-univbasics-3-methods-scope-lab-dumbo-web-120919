@@ -7,5 +7,5 @@ def toadstool
 end
 
 def link 
-  puts master_sword = "It's Dangeroud To Go Alone! Take This.\n"
+  puts master_sword = "It's Dangerous To Go Alone! Take This.\n"
 end
