@@ -9,3 +9,8 @@ end
 def link 
   puts master_sword = "It's Dangerous To Go Alone! Take This.\n"
 end
+
+def any_phrase(phrase)
+  puts starfox = "Do A Barrel Roll!"
+  return(phrase)
+end
